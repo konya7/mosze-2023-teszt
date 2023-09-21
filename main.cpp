@@ -25,5 +25,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     cout << "Atlag: " << atlag <<endl;
+    cout << "Ez van ";
     return 0;
 }
